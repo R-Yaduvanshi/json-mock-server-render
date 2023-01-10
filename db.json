@@ -6,5 +6,34 @@
   "notes": [],
   "wishlist_car": [],
   "task": [],
-  "dogs": []
+  "dogs": [
+    {
+      "name": "Milli",
+      "age": "5",
+      "gender": "female",
+      "place": "Raniganj",
+      "id": 1
+    },
+    {
+      "name": "Rose",
+      "age": "7",
+      "gender": "female",
+      "place": "Asansol",
+      "id": 2
+    },
+    {
+      "name": "Tiger",
+      "age": "3",
+      "gender": "male",
+      "place": "Durgapur",
+      "id": 3
+    },
+    {
+      "name": "Tommy",
+      "age": "2",
+      "gender": "male",
+      "place": "Kolkata",
+      "id": 4
+    }
+  ]
 }
